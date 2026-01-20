@@ -26,9 +26,13 @@ Acesse este [**link**](/img/) para visualizar todas as fotos das apresentações
 
 Este evento foi uma parceria entre a comunidade [**.NET SP**](https://www.meetup.com/dotnet-Sao-Paulo/) e a [**Escola Senai Suíço-Brasileira Paulo Ernesto Tolle**](https://suicobrasileira.sp.senai.br/).
 
-Formulário utilizado para inscrições: [**Sympla**](https://www.sympla.com.br/evento/database-weekend-sql-server-postgresql-azure-gratuito-e-presencial-sao-paulo-sp/2471556)
+Formulário utilizado para inscrições: [**Sympla**](https://www.sympla.com.br/evento/potencializando-aplicacoes-net-com-inteligencia-artificial-gratuito-e-presencial-sao-paulo-sp/3072488)
 
-Local: Escola SENAI Suíço-Brasileira Paulo Ernesto Tolle - Rua Bento Branco de Andrade Filho, 379 - Santo Amaro - São Paulo/SP - CEP 04757-000
+Divulgação em redes sociais: [**LinkedIn**](https://www.linkedin.com/events/meetupxpinc-comunidade-netsp7361045010080751619/)
+
+Local: **XP Inc. - Rua Avenida Brigadeiro Faria Lima, 3320 - Itaim Bibi - São Paulo-SP - CEP 04538-132**
+
+Deixamos aqui nossos agradecimentos à **Julia Martins Ferreira (XP Inc.)** pela oportunidade e todo o apoio para promovermos este evento
 
 ![Banner do evento](img/banner.png)
 
