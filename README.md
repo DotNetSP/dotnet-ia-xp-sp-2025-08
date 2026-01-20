@@ -1,8 +1,7 @@
 # dotnet-ia-xp-sp-2025-08
-Potencializando Aplicações .NET com Inteligência Artificial - um evento presencial e gratuito realizado em parceria entre a comunidade .NET São Paulo e a XP Inc.
+**Potencializando Aplicações .NET com Inteligência Artificial** - um evento presencial e gratuito realizado em parceria entre a comunidade .NET São Paulo e a XP Inc.
 
----
-
+Data: **20/08/2025 (quarta-feira)**
 
 Organizadores:
 - **Julia Martins Ferreira (XP Inc.)**
@@ -26,7 +25,7 @@ Formulário utilizado para inscrições: [**Sympla**](https://www.sympla.com.br/
 
 Divulgação em redes sociais: [**LinkedIn**](https://www.linkedin.com/events/meetupxpinc-comunidade-netsp7361045010080751619/)
 
-Local: **XP Inc. - Rua Avenida Brigadeiro Faria Lima, 3320 - Itaim Bibi - São Paulo-SP - CEP 04538-132**
+Local: **XP Espaço Faria Lima - Rua Avenida Brigadeiro Faria Lima, 3320 - Itaim Bibi - São Paulo-SP - CEP 04538-132**
 
 Deixamos aqui nossos agradecimentos à **Julia Martins Ferreira (XP Inc.)** pela oportunidade e todo o apoio para promovermos este evento
 
