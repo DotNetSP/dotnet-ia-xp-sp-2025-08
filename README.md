@@ -18,7 +18,7 @@ _# ML.NET: usos e aplicabilidades para Machine Learning_
 
 Palestrante: **Gustavo Romano (Sócio e Staff Software Engineer da XP Inc.)**
 
-Tecnologias e tópicos abordados: **.NET, ML.NET, Machine Learning, Inteligência Artificial, Microsoft Azure...**
+Tecnologias e tópicos abordados: **.NET, ML.NET, TensorFlow, Machine Learning, Inteligência Artificial, Microsoft Azure...**
 
 _# .NET + MCP: integrando com facilidade soluções de Inteligência Artificial a suas aplicações!_
 
@@ -48,7 +48,7 @@ Deixamos aqui nossos agradecimentos à **Julia Martins Ferreira (XP Inc.)** pela
 
 ![Renato e Milton palestrando 2](img/45.jpg)
 
-![Gustavo palestrando](img/m-09.jpg)
+![Gustavo palestrando](img/14.jpg)
 
 ![Gustavo palestrando 2](img/m-10.jpg)
 
