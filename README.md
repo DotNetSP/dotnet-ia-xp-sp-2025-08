@@ -24,7 +24,7 @@ _# .NET + MCP: integrando com facilidade soluções de Inteligência Artificial 
 
 Palestrantes: **Renato Groffe (Microsoft MVP, Docker Captain, APIsec U Ambassador, MTAC)** e **Milton Camara Gomes (Microsoft MVP, MTAC)**
 
-Tecnologias e tópicos abordados: **.NET 9, C#, MCP, NuGet, Inteligência Artificial, Visual Studio Code, SQL Server, Docker, Docker Compose, Docker MCP Catalog, OpenTelemetry...**
+Tecnologias e tópicos abordados: **.NET, C#, ASP.NET Core, MCP, NuGet, Inteligência Artificial, Visual Studio Code, SQL Server, Docker, Docker Compose, Docker Hub, Docker MCP Catalog, OpenTelemetry...**
 
 ---
 
