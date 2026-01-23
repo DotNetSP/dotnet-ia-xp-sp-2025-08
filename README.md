@@ -50,7 +50,7 @@ Deixamos aqui nossos agradecimentos à **Julia Martins Ferreira (XP Inc.)** pela
 
 ![Gustavo palestrando](img/14.jpg)
 
-![Gustavo palestrando 2](img/m-10.jpg)
+![Gustavo palestrando 2](img/09.jpg)
 
 ![Público](img/06.jpg)
 
