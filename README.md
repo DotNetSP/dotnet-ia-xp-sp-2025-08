@@ -18,7 +18,7 @@ _# ML.NET: usos e aplicabilidades para Machine Learning_
 
 Palestrante: **Gustavo Romano (Sócio e Staff Software Engineer da XP Inc.)**
 
-Tecnologias e tópicos abordados: **.NET 10, C#, MCP, Inteligência Artificial, Visual Studio Code, Linux, Microsoft Foundry, Grafana, Grafana Tempo, Docker, Docker Compose, Redis, Azure Redis Cache, PostgreSQL, Azure Monitor, Application Insights...**
+Tecnologias e tópicos abordados: **.NET, ML.NET, Machine Learning, Inteligência Artificial, Microsoft Azure...**
 
 _# .NET + MCP: integrando com facilidade soluções de Inteligência Artificial a suas aplicações!_
 
