@@ -10,12 +10,23 @@ Organizadores:
 
 Número de participantes: **50 pessoas**
 
+---
+
 Apresentações/talks que aconteceram durante o evento:
-* **Escalabilidade de Aplicações utilizando SQL Server, PostgreSQL, Redis e KEDA (Kubernetes Event-driven Autoscaling) - Renato Groffe (Microsoft MVP, Docker Captain, MTAC) e Milton Camara Gomes (Microsoft MVP, MTAC)**
 
-* **Performance em SQL Server para NÃO-DBAs - Marcelo Adade (Microsoft MVP)**
+_# ML.NET: usos e aplicabilidades para Machine Learning_
 
-Tecnologias abordadas: **SQL Server, PostgreSQL, Redis, Linux, Docker, Kubernetes, KEDA, .NET 8, ASP.NET Core, Entity Framework Core**
+Palestrante: **Gustavo Romano (Sócio e Staff Software Engineer da XP Inc.)**
+
+Tecnologias e tópicos abordados: **.NET 10, C#, MCP, Inteligência Artificial, Visual Studio Code, Linux, Microsoft Foundry, Grafana, Grafana Tempo, Docker, Docker Compose, Redis, Azure Redis Cache, PostgreSQL, Azure Monitor, Application Insights...**
+
+_# .NET + MCP: integrando com facilidade soluções de Inteligência Artificial a suas aplicações!_
+
+Palestrantes: **Renato Groffe (Microsoft MVP, Docker Captain, APIsec U Ambassador, MTAC)** e **Milton Camara Gomes (Microsoft MVP, MTAC)**
+
+Tecnologias e tópicos abordados: **.NET 10, C#, MCP, Inteligência Artificial, Visual Studio Code, Linux, Microsoft Foundry, Grafana, Grafana Tempo, Docker, Docker Compose, Redis, Azure Redis Cache, PostgreSQL, Azure Monitor, Application Insights...**
+
+---
 
 Acesse este [**link**](/img/) para visualizar todas as fotos das apresentações.
 
