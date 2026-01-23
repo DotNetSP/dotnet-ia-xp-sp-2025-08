@@ -48,10 +48,14 @@ Deixamos aqui nossos agradecimentos à **Julia Martins Ferreira (XP Inc.)** pela
 
 ![Renato e Milton palestrando 2](img/m-22.jpg)
 
-![Marcelo palestrando](img/m-09.jpg)
+![Gustavo palestrando](img/m-09.jpg)
 
-![Marcelo palestrando 2](img/m-10.jpg)
+![Gustavo palestrando 2](img/m-10.jpg)
 
-![Público](img/m-12.jpg)
+![Público](img/06.jpg)
 
-![Público 2](img/publico-03.jpg)
+![Público 2](img/19.jpg)
+
+![Local do evento](img/16.jpg)
+
+![Coffee-break](img/61.jpg)
